@@ -1,0 +1,20 @@
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.exe.config
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.exe
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.pdb
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csprojAssemblyReference.cache
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.Properties.Resources.resources
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csproj.GenerateResource.cache
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csproj.CoreCompileInputs.cache
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.exe
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.pdb
+D:\XMLDOVIZOFISI\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.FrmDoviz.resources
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.exe.config
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.exe
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\bin\Debug\XMLDOVIZOFISI.pdb
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csproj.AssemblyReference.cache
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.FrmDoviz.resources
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.Properties.Resources.resources
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csproj.GenerateResource.cache
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.csproj.CoreCompileInputs.cache
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.exe
+D:\Doviz Ofisi Uygulamasi\XMLDOVIZOFISI\obj\Debug\XMLDOVIZOFISI.pdb
